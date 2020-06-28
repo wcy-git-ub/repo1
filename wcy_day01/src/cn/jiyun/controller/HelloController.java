@@ -11,6 +11,6 @@ public class HelloController {
 	@RequestMapping
 	@ResponseBody
 	public String hello(){
-		return "hello git";
+		return "1111";
 	}
 }
